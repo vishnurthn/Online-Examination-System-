@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224240185
+# Name: Vishnu Rathan B
+# Date: 24/8/2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="945" height="784" alt="image" src="https://github.com/user-attachments/assets/09cc5bcd-736a-44d0-a390-7d6f67cd76aa" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="868" height="673" alt="image" src="https://github.com/user-attachments/assets/86594432-aec1-45b3-b918-bad6e4ef8d5a" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -64,6 +66,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="722" height="625" alt="image" src="https://github.com/user-attachments/assets/42ddefb6-9ffc-470b-a16e-7d3439c017d7" />
 
 
 
@@ -78,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="773" height="679" alt="image" src="https://github.com/user-attachments/assets/370f543b-1c08-4a5c-9ecb-8e4480f1d4af" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="477" height="830" alt="image" src="https://github.com/user-attachments/assets/5a7cb7d0-0fdf-40e5-8327-46feb0377e09" />
 
 
 
@@ -117,11 +122,10 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="918" height="797" alt="image" src="https://github.com/user-attachments/assets/2ec14793-2dc2-40fe-9a38-32082453d496" />
 
 
 
 
 # RESULT
-
-Thus the project to develop Online Examination system was developed using Star UML Software is done successfully.
-
+Thus the project to develop Online Examination system was developed using Star UML Software is done successfully
